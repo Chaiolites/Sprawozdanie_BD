@@ -2,15 +2,11 @@
 Spis repozytoriów
 ====================
 
-#. Sprawozdanie: [link do głównego githuba]
-#. Przegląd literatury: [link do własnego przeglądu literatury]
-#. Kod: [link do githuba, gdzie jest kod p[ythonowy z komentarzami]
+#. Sprawozdanie: https://github.com/Chaiolites/Sprawozdanie_BD/tree/main/Sprawozdanie-main
+#. Przegląd literatury: https://github.com/Chaiolites/Konfiguracja_baz_danych/tree/main
+#. Kod: https://github.com/Chaiolites/Kody-Python-Bazy
 
 Pozostały przegląd literatury:
 
-* [link do prazeglądu literaturowego inneo człowieka]
-* [link do prazeglądu literaturowego inneo człowieka]
-* [link do prazeglądu literaturowego inneo człowieka]
-* [link do prazeglądu literaturowego inneo człowieka]
-* [link do prazeglądu literaturowego inneo człowieka]
-* [...]
+* link
+* link
