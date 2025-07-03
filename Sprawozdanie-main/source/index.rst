@@ -20,4 +20,5 @@ documentation for details.
    rozdzial3/index
    rozdzial4/index
    rozdzial5/index
+   Kody-Python-Bazy/index
 
