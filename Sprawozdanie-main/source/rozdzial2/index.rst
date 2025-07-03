@@ -7,7 +7,7 @@ Przegląd literatury
    :maxdepth: 2
    :caption: Contents:
 
-   sprzet/index
+   Konfiguracja_baz_danych_alt/Konfiguracja_baz_danych
 
 
 
