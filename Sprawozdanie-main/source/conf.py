@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Sprawozanie labolatoria Bazy Danych'
-copyright = '2025, Pierzchala'
-author = 'Pierzchala'
+project = 'Sprawozdanie laboratoria Bazy Danych'
+copyright = '2025, Piotr Kotuła'
+author = 'Piotr Kotuła'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
