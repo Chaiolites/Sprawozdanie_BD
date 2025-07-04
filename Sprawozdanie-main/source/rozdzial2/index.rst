@@ -9,6 +9,6 @@ Przegląd literatury
 
    Konfiguracja_baz_danych/index
    Sprzet-dla-bazy-danych/source/index
-   Wydajnosc_Skalowanie_i_Replikacja/index
+   Wydajnosc_Skalowanie_i_Replikacja/Wydajnosc-Skalowanie-i-Replikacja
    bezpieczenstwo/index
    Monitorowanie_i_diagnostyka/index   
