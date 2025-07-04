@@ -321,7 +321,9 @@ Przykład zapytania:
 
 ograniczenie ilości wyników
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code-block:: text
+::
+
+
     Limit 10;
 
 
