@@ -11,3 +11,9 @@
 [submodule "Sprawozdanie-main/source/rozdzial2/Wydajnosc_Skalowanie_i_Replikacja"]
 	path = Sprawozdanie-main/source/rozdzial2/Wydajnosc_Skalowanie_i_Replikacja
 	url = https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja.git
+[submodule "Sprawozdanie-main/source/rozdzial2/Monitorowanie_i_diagnostyka"]
+	path = Sprawozdanie-main/source/rozdzial2/Monitorowanie_i_diagnostyka
+	url = https://github.com/GrzegorzSzczepanek/repo-wspolne
+[submodule "Sprawozdanie-main/source/rozdzial2/bezpieczenstwo"]
+	path = Sprawozdanie-main/source/rozdzial2/bezpieczenstwo
+	url = https://github.com/BlazejUl/bezpieczenstwo
