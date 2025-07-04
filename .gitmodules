@@ -2,3 +2,12 @@
 [submodule "Sprawozdanie-main/source/skrypty_python_bazy"]
 	path = Sprawozdanie-main/source/skrypty_python_bazy
 	url = https://github.com/Chaiolites/Kody-Python-Bazy.git
+[submodule "Sprawozdanie-main/source/rozdzial2/Konfiguracja_baz_danych"]
+	path = Sprawozdanie-main/source/rozdzial2/Konfiguracja_baz_danych
+	url = https://github.com/Chaiolites/Konfiguracja_baz_danych.git
+[submodule "Sprawozdanie-main/source/rozdzial2/Sprzet-dla-bazy-danych"]
+	path = Sprawozdanie-main/source/rozdzial2/Sprzet-dla-bazy-danych
+	url = https://github.com/oszczeda/Sprzet-dla-bazy-danych.git
+[submodule "Sprawozdanie-main/source/rozdzial2/Wydajnosc_Skalowanie_i_Replikacja"]
+	path = Sprawozdanie-main/source/rozdzial2/Wydajnosc_Skalowanie_i_Replikacja
+	url = https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja.git
