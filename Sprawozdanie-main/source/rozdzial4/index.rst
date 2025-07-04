@@ -321,7 +321,7 @@ Przykład zapytania:
 
 ograniczenie ilości wyników
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code-block:: sql
+.. code-block:: text
     Limit 10
 
 
