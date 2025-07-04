@@ -8,5 +8,5 @@ Spis repozytoriów
 
 Pozostały przegląd literatury:
 
-* link
-* link
+* https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja/blob/main/Wydajnosc-Skalowanie-i-Replikacja.rst
+* https://github.com/oszczeda/Sprzet-dla-bazy-danych/blob/main/source/SprzetDlaBazyDanych.rst
