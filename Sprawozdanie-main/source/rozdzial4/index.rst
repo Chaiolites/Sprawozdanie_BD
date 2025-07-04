@@ -322,7 +322,7 @@ Przykład zapytania:
 ograniczenie ilości wyników
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. code-block:: text
-    Limit 10
+    Limit 10;
 
 
 Indeksowanie
